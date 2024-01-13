@@ -7,7 +7,7 @@ import { Campo } from '../../styles/index'
 import { Form, Opcoes, Opcao } from './styles'
 import * as enums from '../../utils/enums/Contato'
 import Contato from '../../models/Tarefa'
-import { Informacao } from '../../components/Contatos/styles'
+// import { Informacao } from '../../components/Contatos/styles'
 import { cadastrar } from '../../store/reducers/contatos'
 
 const Formulario = () => {
